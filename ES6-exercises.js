@@ -47,6 +47,7 @@ const favFood = {
 // 3) add those variables to your pet
 // log the most important thing about it: the pet's name 
 
+
 let matrix = {
     name: 'Neo',
     age: 30,
@@ -63,3 +64,27 @@ let petName = 'Bruce';
 let petAge = 1;
 let petBreed = 'Shoggoth';
 
+
+
+// // Wren's solution:
+// let character = {
+//   name: 'Dale Coopet',
+//   age: 30,
+//   hometown: 'Twin Peaks'
+// }
+
+// let {name, age, hometown} = character;
+// console.log(name);
+// console.log(age);
+// console.log(hometown);
+
+// pet = {}
+
+// character = {...character, pet}
+// let petName = 'Waldo';
+// let petAge = 5;
+// let petBreed = 'myna bird';
+
+// character.pet = {petName, petAge, petBreed}
+
+// console.log(character);
